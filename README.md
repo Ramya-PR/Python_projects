@@ -12,3 +12,7 @@ bikeshare.py
 chicago.csv
 new_york_city.csv
 washington.csv
+
+### Credits
+Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs
+https://en.wikipedia.org/wiki/Divvy
