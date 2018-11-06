@@ -2,10 +2,10 @@
 Oct 8th, 2018
 
 ### Project Title
-Bikeshare
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Understand U.S. bikeshare data, calculate statistics and build an interactive environment
 
 ### Files used
 Include the files used
