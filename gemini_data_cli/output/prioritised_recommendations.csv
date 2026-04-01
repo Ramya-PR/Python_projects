@@ -1,0 +1,4 @@
+priority,severity,issue,fix,blocks,effort
+1,🟠 HIGH,High concentration of top 10% authors,Diversify acquisition strategy for new talent,Market reach,High
+2,🟡 MEDIUM,Non Fiction is 37% more expensive,Analyze price sensitivity for Non Fiction titles,Revenue optimization,Medium
+3,🟢 LOW,Zero price books detected,Validate if Price 0 represents a promotion or a data error,Financial reporting,Low

@@ -1,0 +1,2 @@
+operation,column,detail,rows_before,rows_after,rows_removed,timestamp
+flag_outliers,Price,Identified 12 books with Price 0,550,550,0,2026-03-31T20:21:50.381194
