@@ -1023,14 +1023,3 @@ This is unique to Gemini CLI — use it at every chart step.
 
 ---
 
-# Phase 2 Roadmap — Database & Cloud Connections
-
-See original SKILL.md v1.0 for BigQuery, Snowflake, and Postgres connection
-patterns, read-only credential setup, raw→staging→prod schema pattern,
-Snowflake Time Travel, and dbt model structure.
-
-Key safety rules remain unchanged:
-  - Never write to raw/source schema
-  - Use read-only service accounts for profiling
-  - All cleaning outputs go to staging schema
-  - Every transformation is a versioned SQL or Python file in Git
