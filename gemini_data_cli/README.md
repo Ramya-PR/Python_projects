@@ -25,5 +25,7 @@ The project includes deep-insight visualizations:
 - **Seaborn / Matplotlib:** For creating business-critical visualizations.
 - **Strategic Simulation:** Analysis of "Value-for-Money" and "New Entrant vs. Veteran" performance.
 
+This dataset is imported from Kaggle: https://www.kaggle.com/datasets/obaidhere/amazon-bestsellers-price-vs-user-rating-analysis/data
+
 ---
 *Created by Ramya Ponnuvel Rajathy as part of the Gemini EDA Strategic Analysis Pipeline.*
